@@ -1,0 +1,7 @@
+Require a list of Software and Hardware Document for MS-SQL Database (Application)
+1. Server with lastest configuration including 64 GB RAM , 200 GB *3 HDD, Intel Xeon Processor.
+2 SQl Server 2k8 r2 Cal Licience
+3 Port to be open for server client commmunucation (8443,3306)
+4 Internet /ISP require for thye same
+5 OS Type server 2k12/2k16/2k19
+
