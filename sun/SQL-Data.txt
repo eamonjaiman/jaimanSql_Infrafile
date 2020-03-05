@@ -5,3 +5,6 @@ Require a list of Software and Hardware Document for MS-SQL Database (Applicatio
 4 Internet /ISP require for thye same
 5 OS Type server 2k12/2k16/2k19
 6 SQL clustering 
+7 Close my SQL Project
+
+Is a virson control sytem file 1.2
